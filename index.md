@@ -10,7 +10,7 @@ title: Math 107 Intro. to Computational Linear Algebra
 ---
 
 
-**Instructor:** <a target="_parent" href="instructor.html">Dr. W. Riley Casper (about your instructor)</a>
+**Instructor:** <a target="_parent" href="instructor">Dr. W. Riley Casper (about your instructor)</a>
 
 **Email:** wcasper@fullerton.edu
 
