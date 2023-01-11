@@ -11,20 +11,9 @@ permalink: /extras/syllabus
 
 **Email:** wcasper@fullerton.edu
 
-**Office hourse:** Mondays and Wednesdays 4-5PM.  Additional office hours are always available by request.
+**Office hourse:** To be announced.  Additional office hours are always available by request.
 
-**Zoom room:**  Some lectures and office hours will take place over Zoom using the room number [85401217773](https://fullerton.zoom.us/j/85401217773?pwd=TFdpNTZnVUREV0dVbEx5dWJOMDVQQT09)
-
-**Zoom password:** 112358
-
-**Course website:** we will use Canvas website (Spring 2022 MATH 107-2), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math107spring2022">Github Pages site (link)</a> which you may find more convenient for pulling material.
-
-## Course meeting information
-* Section: 01
-* Course ID: 18421
-* Time: MW 2:00PM-4:00PM
-* Meeting Dates: 01/23/2022-05/14/2022
-* Location: online live synchronous lecture on Zoom
+**Course website:** we will use Canvas website (Spring 2023 MATH 107 Section 1 and 2), but will link additional information from a corresponding <a target="_parent" href="https://wcasper.github.io/math107spring2023">Github Pages site (link)</a> which you may find more convenient for pulling material.
 
 ## Course catalog description
 This course is an introduction to linear algebra and computation with applications.  Linear algebra topics include Euclidean spaces, matrices and matrix arithmetic, solving systems of equations, and eigenvalues and eigenvectors.  Computation topics include variables, functions, conditionals, loops, and plotting.
@@ -54,7 +43,7 @@ For this course, you will need to have access to technology that will allow you 
 * **HARDWARE:** an actual working laptop or personal computer with both a microphone and a webcam.  This class has a large programming component and **cell phones or tablets will not cut it**.  If you don't have the required hardware, see Technology requests below.
 * **MATLAB:** MATLAB is a robust software package that is used by many scientists and engineers to model real-world phenomena.  You will be required to use MATLAB for in-class and homework assignments.  MATLAB is available for free to all CSUF students.  Visit the following <a target="_parent" href="https://wcasper.github.io/math107spring2022/extras/install-MATLAB">link about installing MATLAB</a>.  It is strongly suggested that you have a personal laptop or desktop computer on which you can install MATLAB and do assignments.
 * **Canvas:** We will be using the Canvas Learning Management System for all course materials and communication.  See below for details.
-* **Zoom:** For this course, you will need to have access to technology that will allow you to join Zoom for lectures and office hours.
+* **Zoom:** For this course, you will need to have access to technology that will allow you to join Zoom for some lectures and office hours.
 * **Internet:** You will require ongoing access to a computer with reliable internet connectivity for assignments and lectures
 
 ### Technology requests
@@ -71,6 +60,8 @@ You can get free and low-cost software for being an active CUSF student.  Softwa
 * Quizzes: 15%
 * Midterm Exams: 2 at 15% each
 * Final Exam: 30%
+
+Please note that **homework is worth a large part of your grade**.  Do your homework!  You can pass every exam and still fail the class if you don't bother to turn in your homework assignments.
 
 ### Grading scale (tentative)
 
