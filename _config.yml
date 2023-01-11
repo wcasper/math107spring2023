@@ -1,9 +1,9 @@
-title: Math 107 Spring 2022
+title: Math 107 Spring 2023
 author:
   name: William Casper
   email: wcasper@fullerton.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Course webpage for a semester-long course in computational linar algebra.
+  Course webpage for a semester-long course in computational linear algebra.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
