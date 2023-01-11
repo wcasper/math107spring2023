@@ -57,7 +57,7 @@ You can get free and low-cost software for being an active CUSF student.  Softwa
 ### Grading scheme
 
 * Homework: 25%
-* Quizzes: 15%
+* Quizzes/Lecturee Assessments: 15%
 * Midterm Exams: 2 at 15% each
 * Final Exam: 30%
 
@@ -101,7 +101,8 @@ You may also be asked to post in the Discussion Board. Before doing so, review t
 **Quizzes and Assigned Readings**
 You will be assigned a few sections of material to read prior to most class meetings. These are crucial for your understanding of the material in lectures and participation in in-class assignments.
 
-Quizzes containing material related to the readings or the previous lecture will be given through Canvas each week.
+Lecture assessments and quizzes will be provided through Canvas.
+Students will be responsible for completing a lecture assessment of the previous lecture, due the night before the next lecture.
 
 **Homework**
 Homework assignments will feature both computational and analytic components.  For the former, the MATLAB code, all image files, any required screenshots, and any necessary written solutions for each assignment will need to be submitted through the course website on Canvas.
@@ -116,24 +117,42 @@ Exams will take place during class at the times stated below. You will log into 
 If you have an accommodation from Disability Support Services (such as time-and-a-half), it is your responsibility to coordinate with the instructor before each exam.
 
 **Midterm Exams**
-There will be three midterm exams, each lasting 1 hour.
+There will be two midterm exams, each lasting 1 hour and 50 minutes.
 Each midterm will be worth 15\% of your final grade.
 Midterms will be held during class time in our Zoom meeting on the following dates:
-* Wednesday, March 3, 2021
-* Wednesday, April 14, 2021
+* Wednesday, March 1, 2023
+* Wednesday, April 12, 2023
 
 **Final Exam**
 
 ## Important academic calendar dates
-* January 23 to January 31: No signatures required to add or drop most classes. Add/Drop is through TITAN Online.
-* February 8: Last day for students to drop without a grade of ``W'' using Titan Online. Last day for students to ADD with a permit. All permits expire at midnight on September 8th.
-* April 23: Last day the Math Department will be flexible on the approval of non-medical withdrawal requests. Beginning Tuesday, September 22, students must have a serious and compelling reason for non-medical withdrawal requests and must provide supporting documentation for their reason.
-* May 7: Last day to withdrawal with a truly serious and compelling reason that is clearly beyond the student's control. Students must document their reason.
-* February 7 (Monday): Last day for students to ADD with a permit. All permits expire at midnight on February 7.
-* February 7 (Monday): Last day for students to DROP without a grade of ``W''.  Students drop using Titan Online.
-* February 22 (Tuesday): Last day the Math Department will be flexible on the approval of non-medical withdrawal requests.
-* February 23 (Wednesday) and after, students must have a serious and compelling reason for nonmedical withdrawal requests and must provide supporting documentation for their reason.
-* April 22 (Friday): Final deadline to submit a withdrawal request from classes with a grade of "W" for a serious and compelling reason. Last day to withdraw with a truly serious and compelling reason that is clearly beyond the student's control. Students must document their reason
+* 01/21/2023: First Day of Classes
+
+* 01/29/2023: Last day students will be enrolled from waitlist.
+
+* 01/30/2023 to 02/06/2023: Department-issued registration permit to register and add all classes.  Registration is through TITAN Online > Student Homepage. All permits issued in week two expire at midnight; Monday, February 6.
+
+* 02/05/2023:  Deadline to apply for graduation through the student homepage for May 2023 bachelor's degree candidates.
+
+* 02/06/2023: Last day of late registration with $25 late fee. Last day to add most classes with registration permit through Titan Online > Student Homepage. Last day to declare audit and grading basis. Last day to drop classes without a grade of 'W.' Last day for refund if status is reduced from full-time to part-time (6 or fewer units). All permits issued during the first and second week of classes EXPIRE at midnight.
+
+* 02/07/2023: Students submit the online Late Add Request to add classes with a $20 Late Add fee. Student submit the Online Withdrawal Request to drop classes with a 'W' grade.
+
+* 02/13/2023: Deadline to file online graduation check application for May 2023 master's and doctorate degree.
+
+* 02/21/2023: Census date.  Last day to submit a Late Add Request with $20 Late Add Fee. Last day for departments to approve undergraduates candidacy for May 2023.  Last day for Excess Unit approval for graduating seniors.
+
+* 02/25/2023: Last day for undergraduate students to pay $115 graduation fee for May 2023.
+
+* 03/01/2023: Deadline to apply for graduation to receive priority Fall 2023 registration.
+
+* 04/06/2023: Last day to receive a pro-rated refund of mandatory fees for complete withdrawal from classes.
+
+* 04/21/2023: Final deadline to submit a withdrawal request from classes with a grade of 'W' for a serious non-medical reason.
+
+* 05/05/2023: Final deadline to submit a withdrawal request of 'W' for medical reasons.
+
+* 05/12/2023: Last day of class instruction.
 
 
 ## Academic integrity
