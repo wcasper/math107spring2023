@@ -33,7 +33,21 @@ MATLAB is a programming platform designed for scientists and engineers to be abl
 * data and function plotting
 * creating and implementing numerical routines or functions
 
-Starting out, we will consider four very basic concepts in MATLAB, namely **variables**,  **functions**, **operations**, and **commands**.
+## Running MATLAB
+
+Starting out, we will consider four very basic concepts in MATLAB, namely **variables**,  **functions**, **operations**, and **commands**.  All of these are things that we either create or perform within MATLAB.
+
+There are essentially two basic ways to tell MATLAB to do things:
+* typing expressions and commands directly into the **MATLAB command window**
+* creating a **MATLAB script** (aka. an **m-file**) and making MATLAB execute the script
+
+Using the command window has the advantage of allowing the user to interact directly with MATLAB, with nothing in between.
+It is useful for tasks where the user wishes to use MATLAB as if it were a very advanced graphing calculator, creating and changing variables or plots on the fly.
+Given our previous experience with calculators, it is also initially the most intuitive way to use MATLAB.
+
+As they learn more about MATLAB however, most users tend to stop using the command line all together and rely instead on MATLAB scripts (or more advanced **live scripts**).
+This is for many reasons, not the least of which is because the operations that the user is performing tend to be significantly more complicated and involve loops and conditionals.
+Using a script allows one to rerun large chunks of code, reuse segments of code, debug code, and collaborate in code development, and share code.
 
 ### Built-in functions
 In later lectures, we will learn how to build our own functions.
