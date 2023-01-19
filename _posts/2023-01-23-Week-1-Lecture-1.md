@@ -131,6 +131,22 @@ Moreover, operations with the same level of precedence will execute from left to
   This is right!  The first division happens first, giving us 1.  We then multiply this by 4.
 </details>
 
+### Commands
+
+Commands are things we tell MATLAB to do which affect the platform itself.
+They do things like clear variables, the command window, or the plotting window.
+Some useful commands are
+
+| command | description |
+| ------- | ----------- |
+| clc       | clear the command window |
+| clf       | clear the figure window |
+| clear x   | clear the variable x from memory |
+| clear all | clear all variables from memory |
+| exist     | check if a variable exists |
+| help      | get help information on a function or topic |
+| load      | load data from a file |
+
 
 ## Additional resources
 **Hype slides:** <a target="_parent" href="https://wcasper.github.io/math107spring2023/extras/presentations/hype/slides.pdf">pdf of slides (link)</a>
