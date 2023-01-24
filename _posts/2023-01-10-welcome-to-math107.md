@@ -6,7 +6,7 @@ Welcome to Math 107!  In this class, we will learn a mix of introductory program
 
 ## First steps
 
-Please familiarize yourself with the [syllabus (link)](https://wcasper.github.io/math107spring2022/extras/syllabus) and the Canvas site for this course.
+Please familiarize yourself with the [syllabus (link)](https://wcasper.github.io/math107spring2023/extras/syllabus) and the Canvas site for this course.
 
 Also, be sure that you have the necessary technological requisites:
 
