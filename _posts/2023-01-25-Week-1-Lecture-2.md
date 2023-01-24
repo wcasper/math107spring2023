@@ -124,12 +124,6 @@ A(:,[1 3 5])
 ```
 
 ## Additional resources
-* **Lecture code:** <a target="_parent" href="https://wcasper.github.io/math107spring2022/MATLAB/lecture2.m">mfile for lecture (link)</a>
-
-* **Lecture notes:** <a target="_parent" href="https://wcasper.github.io/math107spring2022/extras/notes/lecture2-2022-01-26.pdf">notes for lecture (link)</a>
-
-* **Lecture video:** <a target="_parent" href="https://fullerton.zoom.us/rec/share/7UFYMdIe7DTUEOLHheiaRt4dApZOAtsweR8BvTvpu4X1YA2aPseEhh2LA5P33fjZ.OWczMKy6P0UUj4NN?startTime=1643234858000">recording of lecture (link)</a>
-The access code for watching this video can be found on the Orientation Module in Canvas.
 
 
 
