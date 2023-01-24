@@ -22,7 +22,7 @@ title: Math 107 Intro. to Computational Linear Algebra
 
 **First steps**
 
-Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="https://csufullerton.instructure.com/courses/3252440/modules/7883087">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites:
+Please familiarize yourself with the syllabus and the Canvas site for this course, starting with the <a target="_parent" href="https://csufullerton.instructure.com/courses/3359263/modules/8319284?wrap=1">Orientation Module (link)</a>.  Also, be sure that you have the necessary technological requisites:
 * A reliable internet connection
 * Zoom
 * A webcam
