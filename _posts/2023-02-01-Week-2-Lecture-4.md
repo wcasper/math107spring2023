@@ -137,6 +137,9 @@ find(A>=2)   % returns index or indices where the entries of A are 2 or greater
 * <a target="_parent" href="https://wcasper.github.io/math107spring2023/extras/img/ghost.jpg">ghost.jpg</a>
 * <a target="_parent" href="https://wcasper.github.io/math107spring2023/extras/img/spooky-woods.jpg">spooky-woods.jpg</a>
 
+**MATLAB scripts:**
+* <a target="_parent" href="https://wcasper.github.io/math107spring2023/MATLAB/spooky.m">spooky.m</a>
+
 
 
 
