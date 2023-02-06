@@ -176,7 +176,11 @@ Make sure to remember this number!  You will find it useful for the self-assessm
 
 ### Problem
 
-You might have noticed that the lowest sea surface temperature you can find is $$-1.8\deg C$$.  We can therefore approximate that every space that is $$-1.8\deg C$$ is actually ice!  Therefore the arrays
+As you probably remember from science class, the freezing point of water is $$32\deg F$$, which is $$0\deg C$.
+However, as you can see from th data set, there are places where the water is less than $$0\deg C$$.  What gives?
+The answer is that **salt water** actually has a lower freezing point than regular water.  In fact, the freezing point of salt water is about $-1.8\deg C$.
+
+You might have noticed that the lowest sea surface temperature you can find is $$-1.8\deg C$$.  We can roughly approximate that every space that is $$-1.8\deg C$$ is actually ice!  Therefore the arrays
 
 ```Matlab
 ice = sst == -1.8   % location is ice
