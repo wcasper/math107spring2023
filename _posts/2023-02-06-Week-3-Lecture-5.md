@@ -16,7 +16,7 @@ Notes and highlights from lecture
 
 
 <p align="center">
-  <img width="450" height="400" src="../../../extras/img/nickleback.jpg">
+  <img width="450" src="../../../extras/img/nickleback.jpg">
 </p>
 
 
