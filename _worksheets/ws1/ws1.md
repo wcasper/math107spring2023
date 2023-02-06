@@ -196,6 +196,6 @@ percent_ice = num_ice/num_sea
 
 ## Additional resources
 
-**Sea surface temperature data for 2020:** <a target="_parent" href="https://wcasper.github.io/math107spring2021/worksheets/ws1/ersst.v5.2020.asc">ascii data file (link)</a>
+**Sea surface temperature data for 2020:** <a target="_parent" href="https://wcasper.github.io/math107spring2023/worksheets/ws1/ersst.v5.2020.asc">ascii data file (link)</a>
 
 
