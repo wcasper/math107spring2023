@@ -112,11 +112,11 @@ y = 3;
 
 ~ x == 2  % returns false
 ~ x == 3  % returns true
-x == 2 & y == 3   % returns true
-x == 2 & y == 2   % returns false
-x == 2 | y == 2   % returns true
-x == 2 | y == 3   % returns true
-x == 2 xor y == 3 % returns false
+x == 2 & y == 3    % returns true
+x == 2 & y == 2    % returns false
+x == 2 | y == 2    % returns true
+x == 2 | y == 3    % returns true
+xor(x == 2,y == 3) % returns false
 ```
 
 ### Using if, elseif, else
