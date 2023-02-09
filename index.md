@@ -17,6 +17,7 @@ title: Math 107 Intro. to Computational Linear Algebra
 **Course meetings:** MH Room 452, Monday and Wednesday 8AM-10AM (Section 1) and 10AM-NOON (Section 2)
 
 **Office hours:** Tuesday and Thursday Noon-2PM, and any time by appointment
+
 **Zoom link for remote office hours:** 933-919-1166
 
 **Syllabus:** <a target="_parent" href="extras/syllabus.html">Course syllabus (link)</a>
