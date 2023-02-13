@@ -118,7 +118,7 @@ end
 
 **Problem:** Create a function called *sum_of_digits* which takes in an integer $$n$$ and returns the sum of its digits.
 You may need to combine the base $$10$$ log function and the *floor* function to find a way to calculate the number of digits of an integer $$n$$.
-Double-check that the function you built is correct by verifying that the digit sum in the example $$n=$$8675309$$.
+Double-check that the function you built is correct by verifying that the digit sum in the example $$n=8675309$$.
 
 ### Part 2
 
