@@ -85,12 +85,6 @@ mod(101,7)     & returns 3
 mod(22,7)      & returns 1
 ```
 
-Using the mod function, the following code will produce the $$d$$'th digit of a number $$n$$ 
-
-```Matlab
-digit = mod((n - mod(n,10^(d-1)))/10^(d-1),10)
-```
-
 **Problem:** Complete the following code to create a function which takes in an integer $$n$$ and returns it's $$d$$'th digit.
 
 ```Matlab
