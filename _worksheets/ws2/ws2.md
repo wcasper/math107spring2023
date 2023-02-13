@@ -51,19 +51,74 @@ The **sum of the digits** of a number is the new integer we get by adding the di
 
 **Example:** the sum of the digits of $$8675309$$ is $$8+6+7+5+3+0+9=38$$
 
-Work together with your group to create a function sum_digits which takes in an integer $$n$$ and returns the sum of the digits of $$n$$.  Note that to get the $$d$$'th digit of a number $$n$$ we can use the code
+In this part, we will create a function sum_digits which takes in an integer $$n$$ and returns the sum of the digits of $$n$$.
+
+To do so, we will need some code to get the $$n$$'th digit.
+To do this, we will use the **mod** function and the **floor function**.
+
+The *floor* function is very simple to understand.
+It takes in a number $$x$$ which may not be an integer, and returns the biggest integer less than $$x$$.
+So for example
+
+```Matlab
+floor(2.1)   % returns 2
+floor(pi)    % returns 3
+```
+
+The *mod* function requires a bit more explanation.
+Recall that given integers $$a,b$$ with $$b > 0$$, we can simplify a fraction $$a/b$$ by writing
+
+$$
+\frac{a}{b} = q + \frac{r}{b}
+$$
+
+for some unique integers $$q$$ and $$r$$ with $$0\leq r < b$$.
+The integer $$r$$ which remains divided by $$b$$ is called the **remainder** term.
+
+The mod function *mod(a,b)* will return the remainder term obtained by dividing $$a$$ by $$b$$.
+So for example
+
+```Matlab
+mod(2,3)       % returns 2
+mod(10,5)      % returns 0
+mod(101,7)     & returns 3
+mod(22,7)      & returns 1
+```
+
+Using the mod function, the following code will produce the $$d$$'th digit of a number $$n$$ 
 
 ```Matlab
 digit = mod((n - mod(n,10^(d-1)))/10^(d-1),10)
 ```
 
-Also to get the number of digits that there are, we can use the code
+**Problem:** Complete the following code to create a function which takes in an integer $$n$$ and returns it's $$d$$'th digit.
 
 ```Matlab
-ndigits = floor(log10(n))
+function digit = getdigit(n,d)
+%USAGE:  getdigit(n,d)
+%INPUTS:
+%  n -- an integer
+%  d -- the digit we want
+%OUTPUT:
+%  digit -- the d'th digit
+%Detailed Description:
+%  This function calculates the d'th digit of an integer n.
+
+% Divide by a power of 10 and use the floor function to get rid of the first d-1 digits of n
+n = floor(n/???);
+
+% Now the first digit of n should be the one we want.
+% Use the mod function to get the first digit
+
+digit = mod(n,???);
+
+end
 ```
 
-Double-check that the function you built is correct by verifying that the digit sum in the example above.
+
+**Problem:** Create a function called *sum_of_digits* which takes in an integer $$n$$ and returns the sum of its digits.
+You may need to combine the base $$10$$ log function and the *floor* function to find a way to calculate the number of digits of an integer $$n$$.
+Double-check that the function you built is correct by verifying that the digit sum in the example $$n=$$8675309$$.
 
 ### Part 2
 
