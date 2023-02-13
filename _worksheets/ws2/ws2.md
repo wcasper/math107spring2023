@@ -116,9 +116,32 @@ end
 ```
 
 
-**Problem:** Create a function called *sum_of_digits* which takes in an integer $$n$$ and returns the sum of its digits.
+**Problem:** Complete the code below to create a function called *sum_of_digits* which takes in an integer $$n$$ and returns the sum of its digits.
 You may need to combine the base $$10$$ log function and the *floor* function to find a way to calculate the number of digits of an integer $$n$$.
 Double-check that the function you built is correct by verifying that the digit sum in the example $$n=8675309$$.
+
+```Matlab
+function total = sum_of_digits(n)
+%USAGE:  total = sum_of_digits(n)
+%INPUTS:
+%  n -- an integer
+%OUTPUT:
+%  total -- sum of the digits
+%Detailed Description:
+%  This function calculates the sum of all the digits of n.
+
+% Combine the floor function and log10 to get the number of digits
+ndigits = ???
+
+% Now use the getdigit function and a for loop to get the sum of the digits
+
+total = 0;
+for k = 1:ndigits
+  total = ???
+end
+
+end
+```
 
 ### Part 2
 
