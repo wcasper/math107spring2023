@@ -116,7 +116,8 @@ imshow(hdiff);
 
 We can produce a similar picture using vertical differences.
 ```MATLAB
-vdiff = Aflt(1:end-1,1:end-1)-Aflt(2:end,1:end-1);
+vdiff = double(A);
+vdiff = vdiff(1:end-1,1:end-1)-vdiff(2:end,1:end-1);
 vdiff = abs(vdiff);
 vdiff = uint8(vdiff);
 imshow(vdiff);
