@@ -38,7 +38,7 @@ There are **two** required texbooks for this course:
 The second textbook is available as a <a target="_parent" href="textbook.pdf">free PDF (link)</a>.
 
 ### Required technology
-For this course, you will need to have access to technology that will allow you to join Zoom lectures, join Zoom office hours, view and upload assignments on Canvas, and create MATLAB programs.
+For this course, you will need to have access to technology that will allow you to view and upload assignments on Canvas, and create MATLAB programs.
 
 * **HARDWARE:** an actual working laptop or personal computer with both a microphone and a webcam.  This class has a large programming component and **cell phones or tablets will not cut it**.  If you don't have the required hardware, see Technology requests below.
 * **MATLAB:** MATLAB is a robust software package that is used by many scientists and engineers to model real-world phenomena.  You will be required to use MATLAB for in-class and homework assignments.  MATLAB is available for free to all CSUF students.  Visit the following <a target="_parent" href="https://wcasper.github.io/math107spring2022/extras/install-MATLAB">link about installing MATLAB</a>.  It is strongly suggested that you have a personal laptop or desktop computer on which you can install MATLAB and do assignments.
@@ -112,14 +112,14 @@ For the latter, you will need to provide a written solution which will be upload
 * using some other word processor such as Microsoft Word to create the document and then export it as a PDF
 
 ## Exams
-Exams will take place during class at the times stated below. You will log into the class Zoom session and take the exam during a specified time.  Note that you must have video with both your face and hands visible and a working speaker and microphone during the exam.  The microphone should be muted during test-taking in order to not disturb your peers.
+Exams will take place during class at the times stated below.  
 
 If you have an accommodation from Disability Support Services (such as time-and-a-half), it is your responsibility to coordinate with the instructor before each exam.
 
 **Midterm Exams**
 There will be two midterm exams, each lasting 1 hour and 50 minutes.
 Each midterm will be worth 15\% of your final grade.
-Midterms will be held during class time in our Zoom meeting on the following dates:
+Midterms will be held during class time on the following dates:
 * Wednesday, March 1, 2023
 * Wednesday, April 12, 2023
 
