@@ -65,7 +65,7 @@ Note that this code features a couple new things, specifically *double* and *uin
 Load the image *river.png* using the *imread()* command in MATLAB and then convert it to grayscale using the command *rgb2gray()*.
 
 ```MATLAB
-river = imread("river.png");
+river = imread('river.png');
 A = rgb2gray(river);
 ```
 
