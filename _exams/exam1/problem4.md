@@ -21,6 +21,6 @@ $$x_2 = \frac{-b - \sqrt{b^2-4ac}}{2a}.$$
 a) Create a function called *quadratic_root* whose inputs are the coefficients *a*, *b*, and *c* (in that order) and whose output is *both* of the  root specified above.
 Be sure to carefully and appropriately document your function.
 
-b) Submit your function online and also include a copy of the file *quadratic_root.m* with the rest of your submission files.
+b) Submit your function online 
 
 
