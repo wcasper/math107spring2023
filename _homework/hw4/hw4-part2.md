@@ -10,21 +10,21 @@ The following code defines a function which takes in a matrix $$A$$ and computes
 
 ```Matlab
 function total = sum_entries(A)
-#USEAGE: total = sum_entries(A)
-#INPUTS: A -- input matrix
-#OUTPUT: total -- the sum of the entries of the matrix
-#DETAILED DESCRIPTION:
-#  this function calculates the sum of the entries of the matrix A
+%USEAGE: total = sum_entries(A)
+%INPUTS: A -- input matrix
+%OUTPUT: total -- the sum of the entries of the matrix
+%DETAILED DESCRIPTION:
+%  this function calculates the sum of the entries of the matrix A
 
-[nrows,ncols] = size(A); # get number of rows and columns
+[nrows,ncols] = size(A); % get number of rows and columns
 
-  total = 0;   # sum of the entries
+  total = 0;   % sum of the entries
 
-  # sum over all rows
+  % sum over all rows
   for j=1:nrows
-    # sum over all columns
+    % sum over all columns
     for k=1:ncols
-      total = total + A(j,k);  # add the (j,k) element of A to the total
+      total = total + A(j,k);  % add the (j,k) element of A to the total
     end
   end
 
