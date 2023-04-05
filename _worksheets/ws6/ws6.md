@@ -107,6 +107,8 @@ where here $$L_n(x)$$ is the **Lagrange interpolating polynomial** defined by
 
 $$L_n(x) = \frac{(x-x_0)(x-x_1)\dots (x-x_{n-1})(x-x_{n+1})\dots (x-x_d)}{(x_n-x_0)(x_n-x_1)\dots (x_n-x_{n-1})(x_n-x_{n+1})\dots (x_n-x_d)}.$$
 
+The polynomial $$L_n(x)$$ has the special property that $$L_n(x_n)=1$$ and $$L_n(x_j) = 0$$ for all $$j\neq n$$.
+
 ### Part 3
 
 Complete the following MATLAB function called *lagpoly(x,n,interpts)* which takes in a real number $$x$$, a positive integer $$n$$ and an array *interpts* of interpolation points and returns the value of $$L_n(x)$$.
@@ -134,6 +136,9 @@ function Ln = lagpoly(x,n,interpts)
 end
 
 ```
+
+
+
 
 
 
