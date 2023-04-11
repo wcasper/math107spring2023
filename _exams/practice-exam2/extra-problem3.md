@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Exam 2 Problem 3
-permalink: /exams/exam2/problem3
+title: Practice Exam 2 Extra Problem 3
+permalink: /exams/practice-exam2/extra-problem3
 ---
 
 ## Problem 3
