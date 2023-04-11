@@ -20,6 +20,7 @@ while k<=N
     x = x*v(k);
   end
   k = k+1;
+end
 ```
 
 | loop iteration | $$k$$ | $$v(k)$$ | $$x$$ |
