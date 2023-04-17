@@ -128,8 +128,8 @@ that we can use to predict the price of cottages in the future.
 
 * (a) Use these $$x$$-values to create the $$A$$ matrix described in the linear regression section above in MATLAB.
 * (b) Use these $$C$$-values to create the vector $$\vec y$$ described above in MATLAB.
-* (c) Use MATLAB to calculate $$A^TA$$, $$(A^TA)^{-1}$$ and $$A^T\vec y$$
-* (d) Use MATLAB to calculate the product $$(A^TA)^{-1}(A^T\vec y)$$ and obtain the value of $$m$$ and $$b$$
+* (c) Use MATLAB to create a matrix called *Asym* whose value is the symmetric matrix $$A^TA$$.  Also create vector called *bsym* whose value is $$A^T\vec y$$. [Rememember, to take the transpose of a matrix, we can use the *transpose* function or the apostrophe operator.]
+* (d) Use MATLAB to calculate the inverse of *Asym* and the product $$(A^TA)^{-1}(A^T\vec y)$$, obtaining the value of $$m$$ and $$b$$
 * (e) Plot the data set above on the same graph as your linear model.  You should see that the data closely follows the line.
 
 **Self-assessment:** What values did you get for $$m$$ and $$b$$?  Be sure to write them down for the self-assessment quiz later.
