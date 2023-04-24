@@ -125,7 +125,7 @@ Midterms will be held during class time on the following dates:
 
 **Final Exam**
 There will be a Final Exam.  The date and time depends on your section.
-* For MATH 107-1, the exam is Monday 05/17/2023 from 7:00AM-8:50AM
+* For MATH 107-1, the exam is Wednesday 05/17/2023 from 7:00AM-8:50AM
 * For MATH 107-2, the exam is Monday 05/15/2023 from 11:00AM-12:50PM
 
 ## Important academic calendar dates
