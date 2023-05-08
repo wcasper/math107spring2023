@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Worksheet 9
+title: Worksheet 8
 permalink: /worksheets/ws8
 ---
 
