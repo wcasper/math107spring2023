@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Worksheet 9
-permalink: /worksheets/ws9
+permalink: /worksheets/ws8
 ---
 
 ## Directions
@@ -32,7 +32,7 @@ $$L = D-A.$$
 For example, consider the graph
 
 <center>
-<img src="ws9/graph1.png" alt="Simple Example Graph" width="200">
+<img src="ws8/graph1.png" alt="Simple Example Graph" width="200">
 </center>
 
 The adjacency matrix of this graph is given by
@@ -65,7 +65,7 @@ $$L = D-A = \left[\begin{array}{cccc}
 * Problem 1: Find the largest eigenvalue of the Laplacian matrix of the graph
 
 <center>
-<img src="ws9/graph2.png" alt="Star Graph" width="200">
+<img src="ws8/graph2.png" alt="Star Graph" width="200">
 </center>
 
 Make sure to save the value to use in the self-assessement later!
@@ -80,7 +80,7 @@ A **cluster** in a graph is a collection of vertices which are closely connected
 For example, in the graph below the red vertices are strongly interconnected to each other, but weakly connected to the blue vertices.  Likewise the blue vertices are strongly connected to each other but weakly connected elsewhere.
 
 <center>
-<img src="ws9/graph3.png" alt="Simple Cluster Graph" width="400">
+<img src="ws8/graph3.png" alt="Simple Cluster Graph" width="400">
 </center>
 
 * Problem 3: create a matrix $$L$$ in MATLAB whose value is the Laplacian matrix for this graph.  Double-check, this matrix should be symmetric and the sum of the entries in any row or column should be zero!
@@ -122,12 +122,12 @@ Make sure to save your answers for the self-assessement later!
 One famous example of an application in graph clustering comes from a story about a karate club that existed for three years in the early 1970's.  One of the members, Wayne W. Zachary, recorded which members of the club interacted *outside* of the club.  At some point, there was a blowout between one of the administrators and the club instructor, resulting in the club being split into two new clubs.  Based on his data, Zachary created a graph where the vertices were the 34 club members, and edges were formed between members who interacted outside of the club.
 
 <center>
-<img src="ws9/karate.png" alt="Simple Cluster Graph" width="400">
+<img src="ws8/karate.png" alt="Simple Cluster Graph" width="400">
 </center>
 
 By performing clustering on the graph, Zachary was able to predict which members ended up in the two new clubs after the schism with an incredible degree of accuracy.
 
-We will read in the data for Zachary's karate club in terms of an adjacency matrix.  Download the file [karate.mat](ws9/karate.mat) and put it in your MATLAB working directory.  Then use the following code to read in the adjacency matrix as a matrix $$A$$.
+We will read in the data for Zachary's karate club in terms of an adjacency matrix.  Download the file [karate.mat](ws8/karate.mat) and put it in your MATLAB working directory.  Then use the following code to read in the adjacency matrix as a matrix $$A$$.
 
 ```MATLAB
 load('karate.mat')
