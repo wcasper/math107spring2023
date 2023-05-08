@@ -88,9 +88,8 @@ For example, in the graph below the red vertices are strongly interconnected to 
 Just like the eigenvalues of the Laplacian can detect whether a graph is connected or not, they can also be used to find clusters!  This process is called **spectral clustering**.  To perform spectral clustering, we use the following steps:
 
 1. Calculate the eigenvalues and eigenvectors of the Laplacian $$L$$
-2. Set $$x$$ to be the eigenvector with largest eigenvalue and $$y$$ to be the eigenvector with second largest eigenvalue
-3. Plot $$x$$ versus $$y$$ and label the points with the vertices
-4. Split the vertices into two groups based on nearness in the plot
+2. Set $$x$$ to be the eigenvector with the second largest eigenvalue
+3. Split the vertices into two groups based on whether the corresponding entry in $$x$$ is negative or positive.
 
 This can be accomplished in MATLAB using the following code
 
@@ -98,24 +97,21 @@ This can be accomplished in MATLAB using the following code
 % get the eigenvectors and eigenvalues
 [evecs,evals] = eig(L,'vector');
 
-% sort the eigenvalues from largest to smallest
-[evals,ind] = sort(evals,'descend');
+% sort the eigenvalues from smallest to largest
+[evals,ind] = sort(evals,'ascend');
 evecs = evecs(:,ind);
 
-% set x and y to be the eigenvectors of the largest two eigenvalues
-x = evecs(:,1);
-y = evecs(:,2);
+% set x to the second smallest eigenvalue
+x = evecs(:,2);
 
-% plot x versus y and label the points
-plot(x,y,'ro')
-xl = x + rand(size(x,1),1)*0.05;  % label x position
-yl = y + rand(size(y,1),1)*0.05;  % label y position 
-labels = cellstr(num2str((1:size(x))')); % label text
-text(xl,yl,labels)
+% split vertices based on sign
+display('first cluster')
+find(x >= 0)
+display('second cluster')
+find(x < 0)
 ```
 
-* Problem 4:  Perform spectral clustering on the graph whose Laplacian you created in Problem 3.  Which points end up right on top of each other?  Which points are furthest away?  What points are most naturally clustered together according to our spectral clustering?
-Make sure to save your answers for the self-assessement later!
+* Problem 4:  Perform spectral clustering on the graph whose Laplacian you created in Problem 3.  What points are most naturally clustered together according to our spectral clustering?
 
 ## Zachary's Karate Club
 
@@ -168,7 +164,7 @@ labels = cellstr(num2str((1:size(x))')); % label text
 text(xl,yl,labels)
 ```
 
-* Problem 5: Use the above code to perform spectral clustering on the graph.  Use the plot to predict the two separate groups that the club will split into.  Make sure to remember who belongs to what group for the assessment later.
+* Problem 5: Use the above code to perform spectral clustering on the graph.  Use the plot to predict the two separate groups that the club will split into.
 
 
 
